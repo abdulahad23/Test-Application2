@@ -1,0 +1,168 @@
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\ApplicationInsights.config
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\csc.exe
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\vbc.exe
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Test Application.dll.config
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Test Application.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Test Application.pdb
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Antlr3.Runtime.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Aspose.PSD.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\EntityFramework.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\EntityFramework.SqlServer.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.Web.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Newtonsoft.Json.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Owin.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Helpers.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Mvc.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Optimization.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Razor.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\WebGrease.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Aspose.PSD.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.Web.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Helpers.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Mvc.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Optimization.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.Razor.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Antlr3.Runtime.pdb
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Newtonsoft.Json.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\EntityFramework.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\EntityFramework.SqlServer.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abdul\Desktop\Test Application\Test Application\obj\Debug\Test Application.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Desktop\Test Application\Test Application\obj\Debug\Test Application.dll
+C:\Users\abdul\Desktop\Test Application\Test Application\obj\Debug\Test Application.pdb
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\ApplicationInsights.config
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\csc.exe
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\vbc.exe
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Test Application.dll.config
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Test Application.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Test Application.pdb
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Antlr3.Runtime.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Aspose.PSD.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\EntityFramework.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\EntityFramework.SqlServer.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.Web.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Newtonsoft.Json.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Owin.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Helpers.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Mvc.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Optimization.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Razor.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\WebGrease.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Aspose.PSD.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.Web.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Helpers.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Mvc.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Optimization.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.Razor.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Antlr3.Runtime.pdb
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Newtonsoft.Json.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\EntityFramework.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\EntityFramework.SqlServer.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\obj\Debug\Test Application.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\obj\Debug\Test Application.dll
+C:\Users\abdul\Documents\GitHub\Test-Application2\Test Application\obj\Debug\Test Application.pdb
